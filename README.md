@@ -353,11 +353,12 @@ De video speelt automatisch af wanneer je naar de laatste sectie scrollt. Lukt h
 
 Nu gaan we je website publiceren zodat iedereen deze kan bekijken!
 
-1. **Maak een GitHub-account** aan op [github.com](https://github.com/signup) (sla dit over als je er al een hebt)
-2. **Maak een nieuwe repository** aan met als naam exact je GitHub-gebruikersnaam gevolgd door `.github.io` (bijv. gebruikersnaam `janneke` → repository met naam `janneke.github.io`)
-3. **Upload je bestanden** via de knop **"Add file" > "Upload files"** op de repository-pagina. Sleep je `index.html`, de `img/`, `audio/`, `video/` en `js/` mappen erin en klik op **"Commit changes"**
-4. **Wacht even** — GitHub deployt automatisch je statische website
-5. **Bezoek je website** op `https://JOUW-USERNAME.github.io` (in het voorbeeld van Janneke: `https://janneke.github.io`)
+1. **Maak een GitHub-account** aan op [github.com](https://github.com/signup) (sla dit over als je er al een hebt).
+2. **Maak een nieuwe repository** aan via <https://github.com/new> met als naam exact je GitHub-gebruikersnaam gevolgd door `.github.io` (bijv. gebruikersnaam `janneke` → repository met naam `janneke.github.io`). Verder laat je alles op de standaardinstellingen staan en klik je op **"Create repository"**.
+3. **Upload je bestanden** via de link **uploading an existing file** op de repository-pagina in het blauwe vak. Sleep je `index.html`, de `img/`, `audio/`, `video/` en `js/` mappen erin en klik op **"Commit changes"**.
+4. **Wacht even** — GitHub deployt automatisch je statische website.
+   - Op het tabblad "Actions" van je repository kan je de voortgang van de deployment zien. Zodra deze klaar is, zie je een groene checkmark.
+5. **Bezoek je website** op `https://JOUW-USERNAME.github.io` (in het voorbeeld van Janneke: `https://janneke.github.io`).
 
 > **Let op:** De repository-naam moet exact `username.github.io` zijn (met je eigen gebruikersnaam), anders werkt de automatische deployment niet.
 
@@ -365,7 +366,7 @@ Nu gaan we je website publiceren zodat iedereen deze kan bekijken!
 
 ### Stap 14: Nu zelf aan de slag
 
-Pas de website aan voor jouw feest, fuif, verjaardag, ... Voeg extra secties toe, pas de kleuren en lettertypen aan, voeg meer media toe, experimenteer met andere Tailwind utilities!
+Pas de website aan voor jouw feest, fuif, verjaardag, ... Je vindt alle documentatie op <https://tailwindcss.com/docs/>. Voeg extra secties toe, pas de kleuren en lettertypen aan, voeg meer media toe, experimenteer met andere Tailwind utilities!
 
 ---
 
