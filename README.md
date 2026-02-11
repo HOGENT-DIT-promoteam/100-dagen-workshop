@@ -37,10 +37,12 @@ Op het einde van deze workshop kan je:
 
 ## Aan de slag
 
-1. Open de map `Start 2025/` in je code-editor
-2. Open `Start 2025/index.html` in je browser of start een Live Server sessie (via de "Go Live" knop rechtsonder in VS Code)
-3. Volg onderstaande stappen — elke stap komt overeen met een `TODO`-commentaar in de code
-4. Ververs je browser na elke wijziging om het resultaat te zien
+1. Download de code via de groene "Code" knop hierboven en kies "Download ZIP". Pak het bestand `100-dagen-workshop-main.zip` uit op je computer.
+2. Open de uitgepakte map `100-dagen-workshop-main` in je code-editor.
+3. Open `Start 2025/index.html` in je browser.
+   - Als je de Live Server extensie hebt, kan je ook een Live Server sessie starten (via de "Go Live" knop rechtsonder in VS Code).
+4. Volg onderstaande stappen — elke stap komt overeen met een `TODO`-commentaar in de code
+5. Ververs je browser na elke wijziging om het resultaat te zien.
 
 > **Tip:** Gebruik de Developer Tools van je browser (F12) om elementen te inspecteren en problemen op te sporen.
 
@@ -329,7 +331,7 @@ Zoek de lege `audio.src = ""` regel en stel deze in op het feest-audiobestand:
 audio.src = "audio/feest.mp3";
 ```
 
-Als je nu naar zone 4 scrollt, begint de feestmuziek te spelen!
+Als je nu naar zone 4 scrollt, begint de feestmuziek te spelen! Lukt het niet? Ververs de pagina, klik eens ergens op de pagina om de focus te geven, en scroll dan naar beneden.
 
 ---
 
@@ -343,7 +345,7 @@ Voeg het pad naar het videobestand toe:
 <source src="video/city.mp4" type="video/mp4" />
 ```
 
-De video speelt automatisch af wanneer je naar de laatste sectie scrollt.
+De video speelt automatisch af wanneer je naar de laatste sectie scrollt. Lukt het niet? Ververs de pagina, klik eens ergens op de pagina om de focus te geven, en scroll dan naar beneden.
 
 ---
 
